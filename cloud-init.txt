@@ -12,7 +12,7 @@ write_files:
 
        server_name example.ubuntu.com;
 
-       root /home/book_admin/web;
+       root /home/alexei/web;
        index index.html;
 
        location / {
